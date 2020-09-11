@@ -12,7 +12,7 @@
 ## Submission
 
 - [Belajar Machine Learning untuk Pemula →]()
-- [Belajar Pengembangan Machine Learning →](https://github.com/mrbvrz/dicoding-machine-learning-developer/tree/master/belajar-pengembangan-machine-learning)
+- [Belajar Pengembangan Machine Learning →](https://github.com/mrbvrz/dicoding-machine-learning-developer/blob/master/belajar-pengembangan-machine-learning/README.md#belajar-pengembangan-machine-learning)
 
 ## Result
 
