@@ -16,4 +16,11 @@
 
 ## Result
 
+| No.  | Course                                  |  Issued | Cert link |
+|:----:|---|:-:|:-:|
+|  1   |  Belajar Dasar Visualisasi Data         | 09-06-2020 | [→](https://raw.githubusercontent.com/mrbvrz/resume/master/certificates/cert-file/dicoding/academy/belajar-dasar-visualisasi-data.jpg) |
+|  2   |  Memulai Pemrograman Dengan Python      | 12-06-2020 | [→](https://raw.githubusercontent.com/mrbvrz/resume/master/certificates/cert-file/dicoding/academy/memulai-pemrograman-dengan-python.jpg) |
+|  3   |  Belajar Machine Learning untuk Pemula  | 18-06-2020 | [→](https://raw.githubusercontent.com/mrbvrz/resume/master/certificates/cert-file/dicoding/academy/belajar-machine-learning-untuk-pemula.jpg) |
+|  4   |  Belajar Pengembangan Machine Learning  |  |  |
+
 ## Thanks
