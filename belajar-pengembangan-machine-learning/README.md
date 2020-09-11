@@ -1,6 +1,8 @@
 # Belajar Pengembangan Machine Learning
 
-Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning. → https://www.dicoding.com/academies/185
+Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning. 
+
+Link academy → https://www.dicoding.com/academies/185
 
 
 ## Submisson 01 - NLP
