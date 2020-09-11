@@ -9,4 +9,11 @@
 - [x] [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184), Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
 - [ ] [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185), Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
 
+## Submission
 
+- [Belajar Machine Learning untuk Pemula →]()
+- [Belajar Pengembangan Machine Learning →](https://github.com/mrbvrz/dicoding-machine-learning-developer/tree/master/belajar-pengembangan-machine-learning)
+
+## Result
+
+## Thanks
