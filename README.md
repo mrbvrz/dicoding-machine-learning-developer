@@ -1,7 +1,9 @@
 # Dicoding Machine Learning Developer
 
-# 
+Kurikulum lengkap yang disusun oleh Dicoding bersama IBM dan Google beserta pelaku industri. Siswa dipersiapkan untuk menjadi Machine Learning Developer sesuai standar kebutuhan industri. 
 
+Learning Path **Mechine Learning Developer** ini didapatkan dari program beasiswa [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com/).
+.
 ## Learning Path
 
 - [x] [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177), Pelajari teknik dasar untuk representasi hasil data secara visual sehingga dapat mengkomunikasikan output dari data yang telah terproses.
@@ -11,7 +13,7 @@
 
 ## Submission
 
-- [Belajar Machine Learning untuk Pemula →]()
+- [Belajar Machine Learning untuk Pemula →](https://github.com/mrbvrz/dicoding-machine-learning-developer/tree/master/belajar-machine-learning-untuk-pemula/)
 - [Belajar Pengembangan Machine Learning →](https://github.com/mrbvrz/dicoding-machine-learning-developer/blob/master/belajar-pengembangan-machine-learning/)
 
 ## Result
