@@ -24,3 +24,5 @@
 |  4   |  Belajar Pengembangan Machine Learning  | 05-10-2020 | [→]() |
 
 ## Thanks
+
+Terima kasih untuk [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com/) dan [Dicoding](https://www.dicoding.com/), untuk beasiswa **Belajar Machine Learning Developer**.
