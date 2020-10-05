@@ -25,6 +25,6 @@ Learning Path **Mechine Learning Developer** ini didapatkan dari program beasisw
 |  3   |  Belajar Machine Learning untuk Pemula  | 18-06-2020 | [→](https://www.dicoding.com/certificates/N72ZDGW39ZYW) |
 |  4   |  Belajar Pengembangan Machine Learning  | 05-10-2020 | [→](https://www.dicoding.com/certificates/72ZD223YQZYW) |
 
-## Thanks
+## Thanks :pray:
 
-Terima kasih untuk [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com/) dan [Dicoding](https://www.dicoding.com/), untuk beasiswa **Belajar Machine Learning Developer**.
+Terima kasih untuk [IDCamp Indosat Ooredoo 2020](https://idcamp.indosatooredoo.com/) dan [Dicoding](https://www.dicoding.com/).
